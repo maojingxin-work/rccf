@@ -56,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -686,7 +686,7 @@
       <workItem from="1500950032844" duration="1363000" />
       <workItem from="1500951865733" duration="964000" />
       <workItem from="1500953545640" duration="362000" />
-      <workItem from="1500953961227" duration="165000" />
+      <workItem from="1500953961227" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1500953618933</created>
@@ -695,11 +695,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500953618933</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sec">
+      <created>1500954144860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500954144860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133288000" />
+    <option name="totallyTimeSpent" value="133411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1372" height="744" extended-state="0" />
@@ -743,7 +750,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1111" />
-    <option name="LAST_COMMIT_MESSAGE" value="1111" />
+    <MESSAGE value="sec" />
+    <option name="LAST_COMMIT_MESSAGE" value="sec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1067,7 +1075,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
